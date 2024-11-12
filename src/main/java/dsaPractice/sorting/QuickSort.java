@@ -1,6 +1,6 @@
 package dsaPractice.sorting;
 
-//Need to solve
+//Need to solve	
 
 /*
  * ->Step 1: Pick a pivot element(any random element in the array)
@@ -55,7 +55,7 @@ high is the ending index of the current subarray.
         return i + 1;
     }
 
-    // Main method for testing
+
     public static void main(String args[]) {
         int arr[] = { 2, 1, 6, 10, 4, 1, 3, 9, 7 };
         int n = arr.length;

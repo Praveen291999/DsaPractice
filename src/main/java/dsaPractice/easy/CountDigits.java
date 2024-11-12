@@ -29,7 +29,5 @@ public class CountDigits {
 
 		}
 		System.out.println(count);
-
 	}
-
 }
